@@ -1,6 +1,6 @@
-The project for "Digital Literacy" course of winter 26' sem .
+# The project for "Digital Literacy" course of winter 26' sem .
 
-Name:Kritika Jain
+Name:Dewansh Kejriwal
 Branch: B.Tech CSE
 Year: 1st Year
 Project Overview
